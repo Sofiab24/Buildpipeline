@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navegador web", "Navegador web\Navegador web.csproj", "{5A9B97CE-D943-4822-BFF6-90CB33A14D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A9B97CE-D943-4822-BFF6-90CB33A14D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9B97CE-D943-4822-BFF6-90CB33A14D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9B97CE-D943-4822-BFF6-90CB33A14D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9B97CE-D943-4822-BFF6-90CB33A14D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E049B70-8D00-4BFF-A8B1-DD991437363B}
+	EndGlobalSection
+EndGlobal
